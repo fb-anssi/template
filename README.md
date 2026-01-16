@@ -62,6 +62,27 @@ Ce badge fait référence à la stratégie open source de l'ANSSI présentée su
 [![badge_catégorie_externe](https://img.shields.io/badge/catégorie-externe-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
 ```
 
+#### Version anglaise
+
+Pour les projets en anglais, vous pouvez utiliser les badges suivants :
+
+* doctrinal projects [![category_badge_doctrinal](https://img.shields.io/badge/category-doctrinal-%23e9c7e7)](https://github.com/ANSSI-FR#types-de-projets)
+```md
+[![category_badge_doctrinal](https://img.shields.io/badge/category-doctrinal-%23e9c7e7)](https://github.com/ANSSI-FR#types-de-projets)
+```
+
+* internal tools [![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+
+```md
+[![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+```
+
+* external tools [![category_badge_external](https://img.shields.io/badge/category-external-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
+
+```md
+[![category_badge_external](https://img.shields.io/badge/category-external-%23b556b6)](https://github.com/ANSSI-FR#types-de-projets)
+```
+
 ### Niveau d'ouverture
 
 Le niveau de contribution attendu par le projet open source est indiqué à l'aide de trois badges tirés de la [classification élaborée par la DINUM](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture). Les badges disponibles pour adapter le chapô sont repris avec le visuel et la ligne markdown associée :
@@ -82,4 +103,26 @@ Le niveau de contribution attendu par le projet open source est indiqué à l'ai
 
 ```md
 [![badge_ouverture_C](https://img.shields.io/badge/code.gouv.fr-publié-orange)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+```
+
+#### Version anglaise
+
+Pour les projets en anglais, vous pouvez utiliser les badges suivants :
+
+* 📘 Level A - **collaborative** [![openess_badge_A](https://img.shields.io/badge/code.gouv.fr-collaborative-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+
+```md
+[![openess_badge_A](https://img.shields.io/badge/code.gouv.fr-collaborative-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+```
+
+* 📗 Level B - **open** [![openess_badge_B](https://img.shields.io/badge/code.gouv.fr-open-green)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+
+```md
+[![openess_badge_B](https://img.shields.io/badge/code.gouv.fr-open-green)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+```
+
+* 📙 Niveau C - **published** [![openess_badge_C](https://img.shields.io/badge/code.gouv.fr-published-orange)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+
+```md
+[![openess_badge_C](https://img.shields.io/badge/code.gouv.fr-published-orange)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 ```

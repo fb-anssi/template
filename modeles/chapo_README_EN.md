@@ -3,7 +3,7 @@
 ## French Cybersecurity Agency (ANSSI)
 
 ![badge_repo](https://img.shields.io/badge/ANSSI--FR-template-white)
-![badge_category_internal](https://img.shields.io/badge/category-internal-%23d08fce)
-[![badge_openness_A](https://img.shields.io/badge/code.gouv.fr-contributive-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
+[![category_badge_internal](https://img.shields.io/badge/category-internal-%23d08fce)](https://github.com/ANSSI-FR#types-de-projets)
+[![openess_badge_A](https://img.shields.io/badge/code.gouv.fr-collaborative-blue)](https://documentation.ouvert.numerique.gouv.fr/les-parcours-de-documentation/ouvrir-un-projet-num%C3%A9rique/#niveau-ouverture)
 
 *This projet is managed by [ANSSI](https://cyber.gouv.fr/).To find out more, you can go to [page](https://cyber.gouv.fr/open-source-lanssi) dedicated to the ANSSI open source strategy. You can also click on the badges to learn more about their meaning*
